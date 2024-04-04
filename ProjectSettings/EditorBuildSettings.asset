@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0. Menu Principal.unity
+    guid: c9f71e44ccefa4d4aa993a7d84ae436c
+  - enabled: 1
+    path: Assets/Scenes/1. Niveles.unity
+    guid: 2adc5fc22da95d04f9dfdb2541251cb4
+  - enabled: 1
+    path: Assets/Scenes/2. Ayuda.unity
+    guid: da233f61875dc9f4292e6ab379f9f9ba
+  - enabled: 1
+    path: "Assets/Scenes/3. Cr\xE9ditos.unity"
+    guid: 992f1c87c58855c4bad4dab2715d3faf
+  - enabled: 1
+    path: Assets/Scenes/4. Nivel 1 Letras.unity
+    guid: 3c1c2bc4c69b14349854f372a1e4a395
+  - enabled: 1
+    path: Assets/Scenes/5. Nivel 2 Letras.unity
+    guid: e5f208ba32bddfd4db045e29f6647d41
+  - enabled: 1
+    path: Assets/Scenes/6. Nivel 3 Letras.unity
+    guid: 1694449bccc6964459ef79314be74acd
+  - enabled: 1
+    path: Assets/Scenes/7. Nivel 4 Letras.unity
+    guid: 8c3047b62d8622044af4d547cd160954
+  m_configObjects: {}
